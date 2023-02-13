@@ -1,0 +1,12 @@
+#root{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 7rem 1rem;
+    background: #ffff;
+    z-index: 999;
+    border-radius: 10px;
+    height: 45vh;
+    width: 18rem;
+    padding: 0 3rem;
+}
